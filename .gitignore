@@ -1,0 +1,5 @@
+*.tgz
+SweetHome3D-*/
+*.sh3d
+sweethome3d_*_all.deb
+sweethome3d_*_all/

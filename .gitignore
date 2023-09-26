@@ -1,5 +1,10 @@
+# Source files, archive and extracted
 *.tgz
 SweetHome3D-*/
-*.sh3d
+
+# Debian integration, package and extracted
 sweethome3d_*_all.deb
 sweethome3d_*_all/
+
+# Documents, to test integration
+*.sh3d
